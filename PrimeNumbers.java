@@ -1,5 +1,5 @@
 public class PrimeNumbers {
-
+//Prime Number generating
  public static void main(String[] args) {
 
   int num = 20, count;
