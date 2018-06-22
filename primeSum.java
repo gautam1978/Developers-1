@@ -1,5 +1,5 @@
 import java.util.Scanner;
- 
+// New changes; 
 class primeSum {
     public static void main(String args[])
     {
